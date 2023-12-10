@@ -64,13 +64,12 @@ elif deci == int("2"):
     try:
         playlist = Playlist(playlist_link)
 
-        # Iterating through each video in the playlist
         for video in playlist.videos:
             # Getting the highest resolution stream
             video_stream = video.streams.get_highest_resolution()
 
             # Setting the download path
-            download_path = './playlist_downloads'  # Replace with your preferred directory
+            download_path = './playlist_downloads'  
 
             # Downloading the video
             print(f"{BLUE}Downloading the video '{video.title}'...{COLOR_RESET}")

@@ -14,4 +14,4 @@ Some functions might work only with windows machines so please make changes acco
 Creaminit1234
 
 # Donate me
-35incuhAxdsJr1QySeVCbow6676fuMZo2M - Wallet 1
+35incuhAxdsJr1QySeVCbow6676fuMZo2M - Wallet 1 - BTC
